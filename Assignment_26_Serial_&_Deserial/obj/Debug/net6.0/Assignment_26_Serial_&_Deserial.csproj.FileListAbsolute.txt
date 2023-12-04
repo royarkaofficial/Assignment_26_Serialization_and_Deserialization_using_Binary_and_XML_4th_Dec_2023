@@ -1,0 +1,14 @@
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\bin\Debug\net6.0\Assignment_26_Serial_&_Deserial.exe
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\bin\Debug\net6.0\Assignment_26_Serial_&_Deserial.deps.json
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\bin\Debug\net6.0\Assignment_26_Serial_&_Deserial.runtimeconfig.json
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\bin\Debug\net6.0\Assignment_26_Serial_&_Deserial.dll
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\bin\Debug\net6.0\Assignment_26_Serial_&_Deserial.pdb
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.AssemblyInfoInputs.cache
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.AssemblyInfo.cs
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.dll
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\refint\Assignment_26_Serial_&_Deserial.dll
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.pdb
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\Assignment_26_Serial_&_Deserial.genruntimeconfig.cache
+D:\Mphasis-B2\Day-21\Assignment_26_Serial_&_Deserial\Assignment_26_Serial_&_Deserial\obj\Debug\net6.0\ref\Assignment_26_Serial_&_Deserial.dll
